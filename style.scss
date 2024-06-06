@@ -1,0 +1,36 @@
+ *{
+    
+    box-sizing: border-box;
+ }
+ html, 
+ body {
+    width: 100vw;
+    height: 100vh;
+ }
+ li{
+    margin: 10px;
+    }
+.container{
+    background-color: rgb(25, 68, 62);
+    border: 1px solid aqua;
+    text-align: center;
+    color: white;
+}
+.square{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid white;
+    display: inline-block;
+    margin: 20px;
+}
+.footer{
+    color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.footer2{
+    text-align: center;
+}
